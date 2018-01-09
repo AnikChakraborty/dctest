@@ -31,8 +31,8 @@ The XML file or stream requires a BOM stamp to be present as the very first thre
 
 Shown here is a chart that uses arabic text
 
-{% embed_all using-special-characters-in-a-chart-example-1.js %}
-
+{% embed_chart using-special-characters-in-a-chart-example-1.js %}
+{% embed_data using-special-characters-in-a-chart-example-1.js %}
 
 FusionCharts XT supports only left-to-right languages as of now. It does not have native support for right-to-left languages like Hebrew. So, if you want to use Hebrew with FusionCharts XT, you will have to programmatically reverse the sequence of words/characters and then provide the same to FusionCharts XT
 
@@ -44,8 +44,8 @@ Currency symbols like the, £(Pound), €(Euro), ¥(Yen) etc., may also be a par
 
 Shown below is a chart that uses the Yen symbol as a currency formatter.
 
-{% embed_all using-special-characters-in-a-chart-example-2.js %}
-
+{% embed_chart using-special-characters-in-a-chart-example-2.js %}
+{% embed_data using-special-characters-in-a-chart-example-2.js %}
 
 
 When using the HTML embedding method with data provided as embedded string, it is essential to encode yen character as %A5. This is true for other currency characters as well.
@@ -100,4 +100,5 @@ Given below is a table of the character and how it must be encoded, it is applic
 
 Shown here is a chart that uses special characters
 
-{% embed_all using-special-characters-in-a-chart-example-3.js %}
+{% embed_chart using-special-characters-in-a-chart-example-3.js %}
+{% embed_data using-special-characters-in-a-chart-example-3.js %}
