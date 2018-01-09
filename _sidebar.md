@@ -568,16 +568,16 @@
 </li>
 <li><i class="icon-open-book"></i><a>Tutorials<i class="icon-keyboard-arrow-right"></i><i class="icon-keyboard-arrow-down"></i></a>
 <ul>
-<li><a href="/api/tutorials/remove-an-existing-chart-from-a-page">Remove an Existing Chart from a Page</a></li>
-<li><a href="/api/tutorials/reference-to-chart-object">Get Reference to Chart Object</a></li>
-<li><a href="/api/tutorials/fusioncharts-constructor-and-object">FusionCharts Constructor and Object</a></li>
-<li><a href="/api/tutorials/change-chart-properties-at-runtime">Change Chart Properties at Runtime</a></li>
-<li><a href="/api/tutorials/using-special-characters-in-a-chart">Using Special Characters</a></li>
-<li><a href="/api/tutorials/plot-discontinuous-data">Plot Discontinuous Data</a></li>
-<li><a href="/api/tutorials/highlight-specific-data-points-on-chart">Highlight Specific Data Points</a></li>
-<li><a href="/api/tutorials/view-data-of-existing-chart-on-page">View Data of Existing Chart</a></li>
-<li><a href="/api/tutorials/get-formatted-numbers-outside-chart">Get Formatted Numbers Outside Chart</a></li>
-<li><a href="/api/tutorials/get-svg-representation-of-a-chart">Get SVG Representation of a Chart</a></li>
+<li><a href="/tutorials/remove-an-existing-chart-from-a-page">Remove an Existing Chart from a Page</a></li>
+<li><a href="/tutorials/reference-to-chart-object">Get Reference to Chart Object</a></li>
+<li><a href="/tutorials/fusioncharts-constructor-and-object">FusionCharts Constructor and Object</a></li>
+<li><a href="/tutorials/change-chart-properties-at-runtime">Change Chart Properties at Runtime</a></li>
+<li><a href="/tutorials/using-special-characters-in-a-chart">Using Special Characters</a></li>
+<li><a href="/tutorials/plot-discontinuous-data">Plot Discontinuous Data</a></li>
+<li><a href="/tutorials/highlight-specific-data-points-on-chart">Highlight Specific Data Points</a></li>
+<li><a href="/tutorials/view-data-of-existing-chart-on-page">View Data of Existing Chart</a></li>
+<li><a href="/tutorials/get-formatted-numbers-outside-chart">Get Formatted Numbers Outside Chart</a></li>
+<li><a href="/tutorials/get-svg-representation-of-a-chart">Get SVG Representation of a Chart</a></li>
 </ul>
 </li>
 <li><i class="icon-bookmark"></i><a>Integration with your stack</a>
