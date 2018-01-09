@@ -1,13 +1,5 @@
 <ul class="nav">
 	<li><i class="icon-home"></i><a href="/">Home</a></li>
-	<li><i class="icon-demo"></i><a>Demo<i class="icon-keyboard-arrow-right"></i><i class="icon-keyboard-arrow-down"></i></a>
-	<ul class="nav-list master-nav">
-		<li><a href="/demos/chart-gallery">Chart Gallery</a></li>
-		<li><a href="/demos/dashboards">Business Dashboards</a></li>
-		<li><a href="/demos/chart-fiddles">Live Examples of Charts</a></li>
-	</ul>
-</li>
-
 <li><i class="icon-spaceship"></i><a>Getting started <i class="icon-keyboard-arrow-right"></i><i class="icon-keyboard-arrow-down"></i></a>
 <ul>
 	<li><a href="/getting-started/installation">Installation</a></li>
@@ -693,7 +685,14 @@
 </ul>
 </li>
 <li><i class="icon-error"></i><a href="/error-handling">Error Handling</a></li>
-<li><i class="icon-widgets"></i><a href="/showcase">Showcase</a></li>
-<li class="divider-top"><i class="icon-help"></i><a href="/faqs">FAQs</a></li>
-<li><i class="icon-device-hub"></i><a href="/changelog">Changelog</a></li>
+<!--li><i class="icon-widgets"></i><a href="/showcase">Showcase</a></li-->
+<li><i class="icon-widgets"></i><a>Showcase<i class="icon-keyboard-arrow-right"></i><i class="icon-keyboard-arrow-down"></i></a>
+	<ul class="nav-list master-nav">
+		<li><a href="/demos/chart-gallery">Chart Gallery</a></li>
+		<li><a href="/demos/dashboards">Business Dashboards</a></li>
+		<li><a href="/demos/chart-fiddles">Live Examples of Charts</a></li>
+	</ul>
+</li>
+<!--li class="divider-top"><i class="icon-help"></i><a href="/faqs">FAQs</a></li>
+<li><i class="icon-device-hub"></i><a href="/changelog">Changelog</a></li-->
 </ul>
