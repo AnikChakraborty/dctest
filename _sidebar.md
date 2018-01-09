@@ -687,7 +687,7 @@
 <li><i class="icon-error"></i><a href="/error-handling">Error Handling</a></li>
 <!--li><i class="icon-widgets"></i><a href="/showcase">Showcase</a></li-->
 <li><i class="icon-widgets"></i><a>Showcase<i class="icon-keyboard-arrow-right"></i><i class="icon-keyboard-arrow-down"></i></a>
-	<ul class="nav-list master-nav">
+	<ul>
 		<li><a href="/demos/chart-gallery">Chart Gallery</a></li>
 		<li><a href="/demos/dashboards">Business Dashboards</a></li>
 		<li><a href="/demos/chart-fiddles">Live Examples of Charts</a></li>
