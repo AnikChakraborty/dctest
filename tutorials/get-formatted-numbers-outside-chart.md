@@ -12,6 +12,7 @@ FusionCharts `number formatter module` lets you format data, you can get this da
 Given below is a live example of data visualisation along with the raw data. If you wish to see the data in the same format as that within the chart, just click on the format button.
 
 {% embed_chart get-formatted-numbers-outside-chart-example-1.js %}
+
 This cool feature is actually very simple to implement in a page. Think of FusionCharts as a JS library providing you a simple API to format numbers. You can do that in two ways.
 
 1. Reuse the number format used in the chart (included in the page)
@@ -40,6 +41,7 @@ You may use FusionCharts library to format number even if you are not rendering 
 
 
 A sample API usage is given below. Here, we are formatting bytes to KB, MB and GB.
+
 ```javascript
 	FusionCharts.formatNumber(1024*1024*1024*5, {numberScaleValue : '1024,1024,1024', numberScaleUnit : ' KB, MB, GB' })
 	 
@@ -53,4 +55,4 @@ The second parameter accepts an object of number formatting configurations, here
 
 The API returns a string of the formatted number.
 
-Read more about the FusionCharts Suite Number Format options at [ Number Format]{% linkTo tutorials/configuring-your-chart-basic/number-format.md %}{:target='_blank'}.
+Read more about the FusionCharts Suite Number Format options at [Number Format](/tutorials/configuring-your-chart-basic/number-format).
